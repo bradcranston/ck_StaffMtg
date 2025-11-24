@@ -2,16 +2,64 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
       @import "./src/style.css";
     </style>
-    <title>JSDev</title>
+    <title>Community Kitchen Data Display</title>
   </head>
   <body>
-    <h1>Alright. You're set.</h1>
-      <h2 class="tintedBlackLeft">Now build something amazing!</h2>
-      <p>JS in FM is amazing</p>
-    <button type="button">Click Me!</button>
+    <div class="container">
+      <!-- Contact Name -->
+      <div class="contact-name">
+        <div class="contact-header">
+          <div id="contactImage" class="contact-image" style="display: none;">
+            <img id="contactImageElement" alt="Contact Photo" />
+          </div>
+          <h2 id="contactName">Loading...</h2>
+        </div>
+      </div>
+
+      <!-- Main Content -->
+      <div class="content">
+        <!-- Left Column -->
+        <div class="left-column">
+          <!-- Programs Section -->
+          <div class="section programs-section">
+            <h3>Programs</h3>
+            <div id="programsList" class="programs-list">
+              <!-- Programs will be populated here -->
+            </div>
+          </div>
+
+          <!-- Attendance Section -->
+          <div class="section attendance-section">
+            <h3>Attendance</h3>
+            <div id="attendanceSummary" class="attendance-summary">
+              <!-- Summary will be populated here -->
+            </div>
+            <div id="attendanceCalendar" class="attendance-calendar">
+              <!-- Calendar will be populated here -->
+            </div>
+          </div>
+        </div>
+
+        <!-- Right Column -->
+        <div class="right-column">
+          <!-- Case Notes Section -->
+          <div class="section case-notes-section">
+            <h3>Case Notes 
+              <button class="add-case-note-btn" id="addCaseNoteBtn">
+                <span class="add-icon">+</span> New Case Note
+              </button>
+            </h3>
+            <div id="caseNotesList" class="case-notes-list">
+              <!-- Case notes will be populated here -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <script type="module">
       import "./src/index.js";

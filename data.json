@@ -1,0 +1,620 @@
+{
+	"attendance" : 
+	[
+		{
+			"date" : "11/7/2025",
+			"excused" : "",
+			"note" : "Staff meeting day",
+			"type" : "Present"
+		},
+		{
+			"date" : "11/6/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Late"
+		},
+		{
+			"date" : "11/5/2025",
+			"excused" : "Yes",
+			"note" : "Doctor's appointment",
+			"type" : "Absent"
+		},
+		{
+			"date" : "11/4/2025",
+			"excused" : "",
+			"note" : "Family emergency",
+			"type" : "Left Early"
+		},
+		{
+			"date" : "11/1/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "NCNS"
+		},
+		{
+			"date" : "10/31/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/30/2025",
+			"excused" : "Yes",
+			"note" : "Medical appointment",
+			"type" : "Late"
+		},
+		{
+			"date" : "8/25/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "8/28/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "8/21/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "8/26/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "8/27/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "8/29/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/2/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/3/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "9/4/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/8/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/10/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/9/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/11/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/12/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/15/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/16/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/17/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/18/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/22/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/19/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/23/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/24/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/29/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/26/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/25/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/1/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "9/30/2025",
+			"excused" : "",
+			"note" : "CG is also working with staff in catering and fine dining",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/2/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/6/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/3/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/8/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/7/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/15/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/4/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/5/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/9/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/10/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/11/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/12/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/13/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/14/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/9/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/10/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/13/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/14/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/15/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/16/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/17/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/20/2025",
+			"excused" : "",
+			"note" : "First day of TJO",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/21/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/22/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "10/23/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : "Present"
+		},
+		{
+			"date" : "11/5/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/18/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/19/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/24/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/25/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/26/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/27/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/28/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/29/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/30/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "10/31/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "11/1/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "11/2/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "11/3/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		},
+		{
+			"date" : "11/4/2025",
+			"excused" : "",
+			"note" : "",
+			"type" : ""
+		}
+	],
+	"caseNotes" : 
+	[
+		{
+			"chef" : "",
+			"date" : "8/22/2025",
+			"note" : "Rent with girlfriend, northside ",
+			"staff" : "",
+			"subject" : "Housing",
+			"user" : "DConway"
+		},
+		{
+			"chef" : "",
+			"date" : "8/25/2025",
+			"note" : "I will learn and refine basic Culinary Skills, Safety, and Knowledge by the end of CKP Training.",
+			"staff" : "",
+			"subject" : "Short Term Goals",
+			"user" : "HRoney"
+		},
+		{
+			"chef" : "",
+			"date" : "8/25/2025",
+			"note" : "I will obtain full time employment, within City limits, in the Mediterranean, Lebanese, or Turkish/Greek style within 30 days of Completion. ",
+			"staff" : "",
+			"subject" : "Medium Term Goals",
+			"user" : "H Roney"
+		},
+		{
+			"chef" : "",
+			"date" : "8/25/2025",
+			"note" : "I would like to either become a Chef and/or own a business that is involved in giving back within the next 5-7 years.",
+			"staff" : "",
+			"subject" : "Long Term Goals",
+			"user" : "HRoney"
+		},
+		{
+			"chef" : "",
+			"date" : "8/30/2025",
+			"note" : "Application for 6 mos submitted",
+			"staff" : "",
+			"subject" : "Travelers Aid",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Chef Missy",
+			"date" : "9/2/2025",
+			"note" : "Chef observes that student takes good notes and is very astute. Chef will note to the team that for instructional purposes, the  \"WHY\" is very important. This student, based on skill may be eligible for rapid reemployment. Chef and case manager will discuss this in 2 on 1's.",
+			"staff" : "",
+			"subject" : "Observation",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Chef Don",
+			"date" : "9/3/2025",
+			"note" : "Really focused. Reliable, and hungry for knowledge. Great attitude. ",
+			"staff" : "",
+			"subject" : "steady\r",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Chef Missy",
+			"date" : "9/10/2025",
+			"note" : "Student was able to work beside chef and other students in a complex three part recipe. Student was observed using the proper equipment and terminology during the task.",
+			"staff" : "",
+			"subject" : "Hard Skills",
+			"user" : "staff"
+		},
+		{
+			"chef" : "",
+			"date" : "9/9/2025",
+			"note" : "Client (CG) shared aspects of his personal and professional background with staff, including prior experience working on a curly fry food truck. He expressed a strong interest in the catering industry, particularly in Mediterranean or Greek cuisine, reflecting his Lebanese heritage. CG stated that he is passionate about the culinary field, saying he “loves this stuff and could really get into it, down the rabbit hole.” He noted that he does this work out of love and a desire to help others.\nCG also mentioned that he prefers to start from the bottom and work his way up. He expressed a specific interest in catering as a career path and shared that he does not want to work late at night. He is interested in applying for the 12-week catering program, if available. Chef provided him with constructive feedback, which was well received.",
+			"staff" : "",
+			"subject" : "2 on 1s ",
+			"user" : "H Roney"
+		},
+		{
+			"chef" : "Chef Missy",
+			"date" : "9/22/2025",
+			"note" : "Student is observed completing more advanced tasks and being a support to chef's above the skill of his peers. Student can complete tasks independently or with a group and lead. Student notes that he wishes to peruse a job with a Lebanese restaurant, per his cultural beliefs. Student can certainly maintain being an apprentice and or continuing the next 4 weeks. Chef has also positioned the student to work with other chefs in catering and experienced doing tasks above his skill level. ",
+			"staff" : "",
+			"subject" : "Observation",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Heather",
+			"date" : "8/27/2025",
+			"note" : "SMART Goal Plan\n\nShort-Term Goal (Training Phase):\n\nSpecific: I will learn and practice culinary skills, kitchen safety, and culinary knowledge during CKP training.\n\nMeasurable: By the end of training, I will demonstrate competency in core culinary tasks (knife skills, cooking methods, safety procedures) as assessed by instructors.\n\nAchievable: Training staff will provide instruction, feedback, and opportunities for practice.\n\nRelevant: These skills are necessary for entry-level culinary employment.\n\nTime-Bound: Completed by the end of the CKP training program.\n\nMid-Term Goal (Employment Phase):\n\nSpecific: I will obtain full-time employment in a restaurant within city limits that specializes in Mediterranean, Lebanese, Turkish, or Greek cuisine.\n\nMeasurable: Document employment within 30 days after program completion.\n\nAchievable: With résumé support, job placement assistance, and active applications, this is a realistic target.\n\nRelevant: This aligns with my culinary interests and long-term career vision.\n\nTime-Bound: Achieved within 30 days of completing CKP training.\n\nLong-Term Goal (Career Advancement):\n\nSpecific: I will become a Chef and/or own a food-related business with a focus on giving back to the community.\n\nMeasurable: Obtain a Chef position or establish a business plan and begin operations.\n\nAchievable: Building skills and gaining experience through employment will prepare me for this step.\n\nRelevant: This fulfills both my career aspirations and personal mission of community impact.\n\nTime-Bound: Within 5–7 years of CKP program completion.",
+			"staff" : "",
+			"subject" : "SMART Goal Plan",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Heather",
+			"date" : "8/27/2025",
+			"note" : "\n\nMeasurable: Obtain a Chef position or establish a business plan and begin operations.\n\nAchievable: Building skills and gaining experience through employment will prepare me for this step.\n\nRelevant: This fulfills both my career aspirations and personal mission of community impact.\n\nTime-Bound: Within 5–7 years of CKP program completion.",
+			"staff" : "",
+			"subject" : "Plan",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Heather",
+			"date" : "8/25/2025",
+			"note" : "Measurable: Document employment within 30 days after program completion.\n\nAchievable: With résumé support, job placement assistance, and active applications, this is a realistic target.\n\nRelevant: This aligns with my culinary interests and long-term career vision.\n\nTime-Bound: Achieved within 30 days of completing CKP training.",
+			"staff" : "",
+			"subject" : "SMART GOAL PLAN",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Heather",
+			"date" : "8/25/2025",
+			"note" : "Measurable: By the end of training, I will demonstrate competency in core culinary tasks (knife skills, cooking methods, safety procedures) as assessed by instructors.\n\nAchievable: Training staff will provide instruction, feedback, and opportunities for practice.\n\nRelevant: These skills are necessary for entry-level culinary employment.\n\nTime-Bound: Completed by the end of the CKP training program.",
+			"staff" : "",
+			"subject" : "SMART Goal Plan",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Chef Dan",
+			"date" : "9/29/2025",
+			"note" : "Student has been working with the catering team over the last week.  He has some issues with being egotistical.  On one specific instance, student was asked by DSC to sweep and mop.  He did so with a bit of an attitude.  When the quality was not acceptable and he had to redo the task, he stated that sweeping and mopping are not his thing.  DSC informed him that everyone has to do their part and cleaning is important to the overall kitchen flow.  The catering team will continue to work with student to help him learn and grow throughout his time in the program.",
+			"staff" : "",
+			"subject" : "Clean up ",
+			"user" : "DSC"
+		},
+		{
+			"chef" : "",
+			"date" : "9/30/2025",
+			"note" : "CG is also working with staff in catering and fine dining",
+			"staff" : "",
+			"subject" : "Present",
+			"user" : "staff"
+		},
+		{
+			"chef" : "Chef Don",
+			"date" : "10/30/2025",
+			"note" : "",
+			"staff" : "",
+			"subject" : "",
+			"user" : "DConway"
+		},
+		{
+			"chef" : "",
+			"date" : "10/28/2025",
+			"note" : "DC- update TJO info and send to Chef Bruce. (DONE)",
+			"staff" : "",
+			"subject" : "DISPO 10/28",
+			"user" : "DConway"
+		},
+		{
+			"chef" : "",
+			"date" : "10/20/2025",
+			"note" : "First day of TJO",
+			"staff" : "",
+			"subject" : "Present",
+			"user" : "Hroney"
+		}
+	],
+	"name" : "Christopher  George ",
+	"programs" : 
+	[
+		{
+			"program" : "Culinary Fundamentals",
+			"tier1" : "Complete",
+			"tier2" : "Complete",
+			"tier3" : "NA"
+		},
+		{
+			"program" : "Transitional Employment",
+			"tier1" : "",
+			"tier2" : "",
+			"tier3" : ""
+		}
+	]
+}
